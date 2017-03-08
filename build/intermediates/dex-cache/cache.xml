@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\classes-1adcd117ab52b551f28e5e666a5d8f4780d12b45.jar" />
+    </item>
+    <item
+        jar="C:\Users\pyz03\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\library-2.4.0-4da4b57ad68faf4d643fee6ddb4e8b4efb8cf3d6.jar" />
+    </item>
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-edd2327a3b6ddec82d1182cbd1817b5f00310740.jar" />
+    </item>
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\br.com.liveo\navigationdrawer-material\2.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a12b9a66f66b514c854e1e66d69e8c46854728f7">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\classes-4c767e6ba8e56b53eba1379413f014155de7d69f.jar" />
+    </item>
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\classes-4fa3b31bfa45732545421861b72ead77b76c95ff.jar" />
+    </item>
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\classes-4301484c951041a2c5bce31f8bd864f8b4933b49.jar" />
+    </item>
+    <item
+        jar="C:\Users\pyz03\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-78db67b82e2af1787d7d15c3a8aafcc2b81a6007.jar" />
+    </item>
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\classes-56080b48748c44466711f3a9aed85d1e107394f6.jar" />
+    </item>
+    <item
+        jar="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\My\AndroidStudio\PiedPiper\app\build\intermediates\pre-dexed\debug\classes-0f69b1707fb2e0762a99da8f4db0471e6b7fe36f.jar" />
+    </item>
+
+</items>
